@@ -57,6 +57,6 @@ end
 ### Mapping
 ![Map](Media/Mapping.jpg)
 
-![Map](Media/diagram.jpg)
+![Image](Media/diagram.jpeg)
 
 
