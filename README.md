@@ -50,3 +50,12 @@ Intermediate waypoints are introduced to ensure safe traversal.
 if initialPos[1] < 0 and initialPos[2] < 0 and finalPos[1] < 0 and finalPos[2] > 0 then
     waypoints = {initialPos, coordinate1, coordinate2, coordinate3, coordinate4, coordinate5, finalPos}
 end
+
+
+## Media
+
+### Mapping
+![PCB](Media/Mapping.jpg)
+
+
+
